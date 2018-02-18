@@ -1,1 +1,3 @@
 # hello-world
+
+what zup, iam vade and i like java ...thats all hahaha sorry this is to short....
